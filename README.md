@@ -1,6 +1,6 @@
 # Node - List Participants Tutorial
 
-This project serves as a guide to help you build an application with FreeClimb. View this tutorial on [FreeClimb.com](https://docs.freeclimb.com/docs/list-conference-participants#section-javascript). Specifically, the project will:
+This project serves as a guide to help you build an application with FreeClimb. View this tutorial on [FreeClimb.com](https://docs.freeclimb.com/docs/list-conference-participants#section-nodejs). Specifically, the project will:
 
 - List the participants of the specified conference   
 
