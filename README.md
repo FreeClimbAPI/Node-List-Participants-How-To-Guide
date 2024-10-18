@@ -22,8 +22,7 @@ To get started using a FreeClimb account, follow the instructions [here](https:/
    | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
    | ACCOUNT_ID              | Account ID which can be found under [API credentials](https://www.freeclimb.com/dashboard/portal/account/authentication) in Dashboard                                                         |
    | API_KEY              | API key which can be found under [API credentials](https://www.freeclimb.com/dashboard/portal/account/authentication) in Dashboard                                               |
-
-3. Provide a value for the variable `conferenceId` which is a conference id. To learn more about conferences go [here](https://docs.freeclimb.com/reference/conferences-2).
+   | CONFERENCE_ID           | Conference id to list participants for. To learn more about conferences go [here](https://docs.freeclimb.com/reference/conferences-2).
 
 ## Runnning the how-to guide
 
