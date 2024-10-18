@@ -1,9 +1,9 @@
 {
   "name": "node-list-participants-how-to-guide",
   "version": "1.0.0",
-  "license":"MIT",
+  "license": "MIT",
   "dependencies": {
-    "@freeclimb/sdk": "^1.0.0",
-    "dotenv": "^8.1.0"
+    "@freeclimb/sdk": "^3.8.0",
+    "dotenv": "^16.4.5"
   }
 }
